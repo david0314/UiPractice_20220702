@@ -40,6 +40,4 @@
         android:checked="true"
         android:text="자동 로그인"/>
 
-
-
 </LinearLayout>
